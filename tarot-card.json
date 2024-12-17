@@ -1,0 +1,470 @@
+[
+    {
+        "name_english": "Chariot",
+        "name_chinese": "戰車",
+        "image": "images/Chariot.png",
+        "detailUrl": "notion://www.notion.so/15a22e953561816b9a76cca6dcf6518c?pvs=4"
+    },
+    {
+        "name_english": "Cups01",
+        "name_chinese": "聖杯一",
+        "image": "images/Cups01.png",
+        "detailUrl": "notion://www.notion.so/15a22e9535618153b28dc3dce2f59629?pvs=4"
+    },
+    {
+        "name_english": "Cups02",
+        "name_chinese": "聖杯二",
+        "image": "images/Cups02.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181378f60e62b96da8e4d?pvs=4"
+    },
+    {
+        "name_english": "Cups03",
+        "name_chinese": "聖杯三",
+        "image": "images/Cups03.png",
+        "detailUrl": "notion://www.notion.so/15a22e9535618180a89ac3f2b1127d0f?pvs=4"
+    },
+    {
+        "name_english": "Cups04",
+        "name_chinese": "聖杯四",
+        "image": "images/Cups04.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181cc8170faff21ddca5f?pvs=4"
+    },
+    {
+        "name_english": "Cups05",
+        "name_chinese": "聖杯五",
+        "image": "images/Cups05.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181f28632ddce57bfb34e?pvs=4"
+    },
+    {
+        "name_english": "Cups06",
+        "name_chinese": "聖杯六",
+        "image": "images/Cups06.png",
+        "detailUrl": "notion://www.notion.so/15a22e953561819ab8a2d3b1c799a5fc?pvs=4"
+    },
+    {
+        "name_english": "Cups07",
+        "name_chinese": "聖杯七",
+        "image": "images/Cups07.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181338a9be8e870dda950?pvs=4"
+    },
+    {
+        "name_english": "Cups08",
+        "name_chinese": "聖杯八",
+        "image": "images/Cups08.png",
+        "detailUrl": "notion://www.notion.so/15a22e9535618165ad50fbd4a16fa594?pvs=4"
+    },
+    {
+        "name_english": "Cups09",
+        "name_chinese": "聖杯九",
+        "image": "images/Cups09.png",
+        "detailUrl": "notion://www.notion.so/15a22e953561815ea25fce48f8c5ce79?pvs=4"
+    },
+    {
+        "name_english": "Cups10",
+        "name_chinese": "聖杯十",
+        "image": "images/Cups10.png",
+        "detailUrl": "notion://www.notion.so/15a22e9535618164b715e51374826fa7?pvs=4"
+    },
+    {
+        "name_english": "Cups11",
+        "name_chinese": "聖杯侍者",
+        "image": "images/Cups11.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181669303da4d6863cc67?pvs=4"
+    },
+    {
+        "name_english": "Cups12",
+        "name_chinese": "聖杯騎士",
+        "image": "images/Cups12.png",
+        "detailUrl": "notion://www.notion.so/15a22e9535618183b7fff5717beff450?pvs=4"
+    },
+    {
+        "name_english": "Cups13",
+        "name_chinese": "聖杯皇后",
+        "image": "images/Cups13.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181c2b60ecf98601f9b78?pvs=4"
+    },
+    {
+        "name_english": "Cups14",
+        "name_chinese": "聖杯國王",
+        "image": "images/Cups14.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181668849ccac2da55950?pvs=4"
+    },
+    {
+        "name_english": "Death",
+        "name_chinese": "死神",
+        "image": "images/Death.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181e6aa46e26803718ba7?pvs=4"
+    },
+    {
+        "name_english": "Devil",
+        "name_chinese": "惡魔",
+        "image": "images/Devil.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181fe955bea549a10dd83?pvs=4"
+    },
+    {
+        "name_english": "Emperor",
+        "name_chinese": "皇帝",
+        "image": "images/Emperor.png",
+        "detailUrl": "notion://www.notion.so/15a22e953561817e81bde106f59051dd?pvs=4"
+    },
+    {
+        "name_english": "Empress",
+        "name_chinese": "皇后",
+        "image": "images/Empress.png",
+        "detailUrl": "notion://www.notion.so/15a22e9535618108baa7d1af6932cd28?pvs=4"
+    },
+    {
+        "name_english": "Fool",
+        "name_chinese": "愚者",
+        "image": "images/Fool.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181b5a328ea731b0c28c4?pvs=4"
+    },
+    {
+        "name_english": "Hanged_Man",
+        "name_chinese": "吊人",
+        "image": "images/Hanged_Man.png",
+        "detailUrl": "notion://www.notion.so/15a22e953561817897dbd7e8d05073d5?pvs=4"
+    },
+    {
+        "name_english": "Hermit",
+        "name_chinese": "隱者",
+        "image": "images/Hermit.png",
+        "detailUrl": "notion://www.notion.so/15a22e9535618126bf56e7b6a95fe44e?pvs=4"
+    },
+    {
+        "name_english": "Hierophant",
+        "name_chinese": "教宗",
+        "image": "images/Hierophant.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181f6845cd576a4a48c8c?pvs=4"
+    },
+    {
+        "name_english": "High_Priestess",
+        "name_chinese": "女祭司",
+        "image": "images/High_Priestess.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181a58be4f73a51cf4ab8?pvs=4"
+    },
+    {
+        "name_english": "審判",
+        "name_chinese": "假名",
+        "image": "images/Judgement.png",
+        "detailUrl": "notion://www.notion.so/11422e95356180f5b51ed4bb1c015d8e?pvs=4"
+    },
+    {
+        "name_english": "Justice",
+        "name_chinese": "正義",
+        "image": "images/Justice.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181e78bace721848a5054?pvs=4"
+    },
+    {
+        "name_english": "Lovers",
+        "name_chinese": "戀人",
+        "image": "images/Lovers.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181eea364d58f8435d790?pvs=4"
+    },
+    {
+        "name_english": "Magician",
+        "name_chinese": "魔術師",
+        "image": "images/Magician.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181eead9fe7296ed6d41b?pvs=4"
+    },
+    {
+        "name_english": "Moon",
+        "name_chinese": "月亮",
+        "image": "images/Moon.png",
+        "detailUrl": "notion://www.notion.so/15a22e953561816cacffef3863d86b3b?pvs=4"
+    },
+    {
+        "name_english": "Pents01",
+        "name_chinese": "錢幣一",
+        "image": "images/Pents01.png",
+        "detailUrl": "notion://www.notion.so/15a22e9535618112bb3fd0c771ae23d1?pvs=4"
+    },
+    {
+        "name_english": "Pents02",
+        "name_chinese": "錢幣二",
+        "image": "images/Pents02.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181ccb350d4f5b6f3aee4?pvs=4"
+    },
+    {
+        "name_english": "Pents03",
+        "name_chinese": "錢幣三",
+        "image": "images/Pents03.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181ab9a15e5e83d7cce26?pvs=4"
+    },
+    {
+        "name_english": "Pents04",
+        "name_chinese": "錢幣四",
+        "image": "images/Pents04.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181e9b15bc6a5167feffb?pvs=4"
+    },
+    {
+        "name_english": "Pents05",
+        "name_chinese": "錢幣五",
+        "image": "images/Pents05.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181c291cbcca4ec5280db?pvs=4"
+    },
+    {
+        "name_english": "Pents06",
+        "name_chinese": "錢幣六",
+        "image": "images/Pents06.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181528622cb9c3898d1df?pvs=4"
+    },
+    {
+        "name_english": "Pents07",
+        "name_chinese": "錢幣七",
+        "image": "images/Pents07.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181fb8be1fc1f02251fe4?pvs=4"
+    },
+    {
+        "name_english": "Pents08",
+        "name_chinese": "錢幣八",
+        "image": "images/Pents08.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181cca1feed97b1b55489?pvs=4"
+    },
+    {
+        "name_english": "Pents09",
+        "name_chinese": "錢幣九",
+        "image": "images/Pents09.png",
+        "detailUrl": "notion://www.notion.so/15a22e953561813ca729c5c0443dc04b?pvs=4"
+    },
+    {
+        "name_english": "Pents10",
+        "name_chinese": "錢幣十",
+        "image": "images/Pents10.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181ab833bd39befb03530?pvs=4"
+    },
+    {
+        "name_english": "Pents11",
+        "name_chinese": "錢幣侍者",
+        "image": "images/Pents11.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181cc8290cede24369948?pvs=4"
+    },
+    {
+        "name_english": "Pents12",
+        "name_chinese": "錢幣騎士",
+        "image": "images/Pents12.png",
+        "detailUrl": "notion://www.notion.so/15a22e9535618149a7c0ec1a067df696?pvs=4"
+    },
+    {
+        "name_english": "Pents13",
+        "name_chinese": "錢幣皇后",
+        "image": "images/Pents13.png",
+        "detailUrl": "notion://www.notion.so/15a22e953561815f86a9e1713ef8aff7?pvs=4"
+    },
+    {
+        "name_english": "Pents14",
+        "name_chinese": "錢幣國王",
+        "image": "images/Pents14.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181d5b6d7e42d06b4dbb1?pvs=4"
+    },
+    {
+        "name_english": "Star",
+        "name_chinese": "星星",
+        "image": "images/Star.png",
+        "detailUrl": "notion://www.notion.so/15a22e953561816fb7c6e75c1a618aba?pvs=4"
+    },
+    {
+        "name_english": "Strength",
+        "name_chinese": "力量",
+        "image": "images/Strength.png",
+        "detailUrl": "notion://www.notion.so/15a22e9535618102946af92e2f34b64b?pvs=4"
+    },
+    {
+        "name_english": "Sun",
+        "name_chinese": "太陽",
+        "image": "images/Sun.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181dd9711ef179367118e?pvs=4"
+    },
+    {
+        "name_english": "Swords01",
+        "name_chinese": "寶劍一",
+        "image": "images/Swords01.png",
+        "detailUrl": "notion://www.notion.so/15a22e953561814c8b12cf89334d98e3?pvs=4"
+    },
+    {
+        "name_english": "Swords02",
+        "name_chinese": "寶劍二",
+        "image": "images/Swords02.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181cb99aafd294f9e8ced?pvs=4"
+    },
+    {
+        "name_english": "Swords03",
+        "name_chinese": "寶劍三",
+        "image": "images/Swords03.png",
+        "detailUrl": "notion://www.notion.so/15a22e9535618113988fca8bacc6effd?pvs=4"
+    },
+    {
+        "name_english": "Swords04",
+        "name_chinese": "寶劍四",
+        "image": "images/Swords04.png",
+        "detailUrl": "notion://www.notion.so/15a22e9535618158bbd3cc699d6eef40?pvs=4"
+    },
+    {
+        "name_english": "Swords05",
+        "name_chinese": "寶劍五",
+        "image": "images/Swords05.png",
+        "detailUrl": "notion://www.notion.so/15a22e953561814594d8c14bad3ab8fa?pvs=4"
+    },
+    {
+        "name_english": "Swords06",
+        "name_chinese": "寶劍六",
+        "image": "images/Swords06.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181f8816ac3e214dc9e94?pvs=4"
+    },
+    {
+        "name_english": "Swords07",
+        "name_chinese": "寶劍七",
+        "image": "images/Swords07.png",
+        "detailUrl": "notion://www.notion.so/15a22e953561814eba41edd12a55057e?pvs=4"
+    },
+    {
+        "name_english": "Swords08",
+        "name_chinese": "寶劍八",
+        "image": "images/Swords08.png",
+        "detailUrl": "notion://www.notion.so/15a22e9535618115898fe8c9e7b1b5f7?pvs=4"
+    },
+    {
+        "name_english": "Swords09",
+        "name_chinese": "寶劍九",
+        "image": "images/Swords09.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181119327c32fb797df6f?pvs=4"
+    },
+    {
+        "name_english": "Swords10",
+        "name_chinese": "寶劍十",
+        "image": "images/Swords10.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181ba8612e2f754fafffd?pvs=4"
+    },
+    {
+        "name_english": "Swords11",
+        "name_chinese": "寶劍侍者",
+        "image": "images/Swords11.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181059a11e05f791e36e7?pvs=4"
+    },
+    {
+        "name_english": "Swords12",
+        "name_chinese": "寶劍騎士",
+        "image": "images/Swords12.png",
+        "detailUrl": "notion://www.notion.so/15a22e9535618151a6d1eeb9fc6467c1?pvs=4"
+    },
+    {
+        "name_english": "Swords13",
+        "name_chinese": "寶劍皇后",
+        "image": "images/Swords13.png",
+        "detailUrl": "notion://www.notion.so/15a22e953561819c916ac5380eebe28c?pvs=4"
+    },
+    {
+        "name_english": "Swords14",
+        "name_chinese": "寶劍國王",
+        "image": "images/Swords14.png",
+        "detailUrl": "notion://www.notion.so/15a22e9535618128aa44eca2734a2981?pvs=4"
+    },
+    {
+        "name_english": "Temperance",
+        "name_chinese": "節制",
+        "image": "images/Temperance.png",
+        "detailUrl": "notion://www.notion.so/15a22e9535618160a149cfcab481299c?pvs=4"
+    },
+    {
+        "name_english": "Tower",
+        "name_chinese": "塔",
+        "image": "images/Tower.png",
+        "detailUrl": "notion://www.notion.so/15a22e953561815189bef935b71c5956?pvs=4"
+    },
+    {
+        "name_english": "Wands01",
+        "name_chinese": "權杖一",
+        "image": "images/Wands01.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181f68ebeffae393109e9?pvs=4"
+    },
+    {
+        "name_english": "Wands02",
+        "name_chinese": "權杖二",
+        "image": "images/Wands02.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181a98237d2a0b52c6f20?pvs=4"
+    },
+    {
+        "name_english": "Wands03",
+        "name_chinese": "權杖三",
+        "image": "images/Wands03.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181f19829d16d2546d41b?pvs=4"
+    },
+    {
+        "name_english": "Wands04",
+        "name_chinese": "權杖四",
+        "image": "images/Wands04.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181f6bb5ed18ecc760e6e?pvs=4"
+    },
+    {
+        "name_english": "Wands05",
+        "name_chinese": "權杖五",
+        "image": "images/Wands05.png",
+        "detailUrl": "notion://www.notion.so/15a22e953561817bad98df19e26e41ed?pvs=4"
+    },
+    {
+        "name_english": "Wands06",
+        "name_chinese": "權杖六",
+        "image": "images/Wands06.png",
+        "detailUrl": "notion://www.notion.so/15a22e953561815f8ef6d630ce2c99b6?pvs=4"
+    },
+    {
+        "name_english": "Wands07",
+        "name_chinese": "權杖七",
+        "image": "images/Wands07.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181a0b622cf87d1708b4f?pvs=4"
+    },
+    {
+        "name_english": "Wands08",
+        "name_chinese": "權杖八",
+        "image": "images/Wands08.png",
+        "detailUrl": "notion://www.notion.so/15a22e953561816a85dcdaccb9f21e6c?pvs=4"
+    },
+    {
+        "name_english": "Wands09",
+        "name_chinese": "權杖九",
+        "image": "images/Wands09.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181fca307e3489931d1b8?pvs=4"
+    },
+    {
+        "name_english": "Wands10",
+        "name_chinese": "權杖十",
+        "image": "images/Wands10.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181d0934df6fda0207d95?pvs=4"
+    },
+    {
+        "name_english": "權杖侍者",
+        "name_chinese": "假名",
+        "image": "images/Wands11.png",
+        "detailUrl": "notion://www.notion.so/11422e95356180ff8fd7dbb4f766c416?pvs=4"
+    },
+    {
+        "name_english": "Wands12",
+        "name_chinese": "權杖騎士",
+        "image": "images/Wands12.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181aea524ce6ab9f53ecd?pvs=4"
+    },
+    {
+        "name_english": "Wands13",
+        "name_chinese": "權杖皇后",
+        "image": "images/Wands13.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181beb5aeda8ed382fedd?pvs=4"
+    },
+    {
+        "name_english": "權杖國王",
+        "name_chinese": "假名",
+        "image": "images/Wands14.png",
+        "detailUrl": "notion://www.notion.so/11422e953561809886f0c217115df122?pvs=4"
+    },
+    {
+        "name_english": "Wheel_of_Fortune",
+        "name_chinese": "命運之輪",
+        "image": "images/Wheel_of_Fortune.png",
+        "detailUrl": "notion://www.notion.so/15a22e9535618131a5dbd55812f58137?pvs=4"
+    },
+    {
+        "name_english": "World",
+        "name_chinese": "世界",
+        "image": "images/World.png",
+        "detailUrl": "notion://www.notion.so/15a22e95356181658682c2812fcf001d?pvs=4"
+    }
+]
